@@ -72,7 +72,7 @@ def show_gene_in_organs(gene, ax, lab):
         x = df.loc[df.Organ == o][coln]
         table.append([o, np.min(x), np.quantile(x, 0.25), np.quantile(x, 0.5), np.quantile(x, 0.75), np.max(x), np.mean(x), np.std(x)])
 
-    print("\n".join(["\t".join(list(map(str, row))) for row in table]), file=open("supporting_information/S1_{}.tsv".format(gene), "w"))
+    print("\n".join(["\t".join(list(map(str, row))) for row in table]), file=open("tables/S1_{}.tsv".format(gene), "w"))
 
     #mpl.rcParams["figure.figsize"] = 4, 5
     p = sns.boxplot(x="Organ", y=coln, data=df, order=order, color=cmap[3], saturation=1, ax=ax)
@@ -180,7 +180,7 @@ if __name__ == "__main__":
 
     # Get miRNA regulators of ACE2 / TMPRSS2 and plot clustermaps
     df = get_regulators_of_genes(["ACE2", "TMPRSS2"])
-    df.to_csv("supporting_information/S2_Table.tsv", sep="\t", index=None)
+    df.to_csv("tables/S2_Table.tsv", sep="\t", index=None)
 
     plot_clustermap("ACE2", "A")
     plot_clustermap("TMPRSS2", "B")

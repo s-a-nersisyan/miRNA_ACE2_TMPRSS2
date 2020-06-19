@@ -1,0 +1,273 @@
+Filename	Organ	Cell type	Number of cells	KDM5B	ACE2	TMPRSS2
+smillie19_epi.processed.h5ad	Colon, epithelial	Best4+ Enterocytes	1097	0.9234275296262534	0.9845031905195989	0.6362807657247037
+smillie19_epi.processed.h5ad	Colon, epithelial	CD4+ Activated Fos-hi	28	0.9642857142857143	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD4+ Activated Fos-lo	25	0.96	1.0	0.96
+smillie19_epi.processed.h5ad	Colon, epithelial	CD4+ Memory	79	0.9873417721518988	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD4+ PD1+	8	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD69+ Mast	14	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD69- Mast	48	0.9791666666666666	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD8+ IELs	1063	0.9840075258701787	1.0	0.9943555973659455
+smillie19_epi.processed.h5ad	Colon, epithelial	CD8+ IL17+	10	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	CD8+ LP	55	0.9818181818181818	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Cycling B	29	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Cycling T	19	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Cycling TA	5343	0.905670971364402	0.9790379936365338	0.7767172000748643
+smillie19_epi.processed.h5ad	Colon, epithelial	DC1	1	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	DC2	7	0.8571428571428571	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Enterocyte Progenitors	2533	0.9759178839320963	0.9865771812080537	0.8795894196604817
+smillie19_epi.processed.h5ad	Colon, epithelial	Enterocytes	1839	0.9461663947797716	0.8945078847199565	0.25394235997824904
+smillie19_epi.processed.h5ad	Colon, epithelial	Enteroendocrine	117	0.8888888888888888	0.9658119658119658	0.8461538461538461
+smillie19_epi.processed.h5ad	Colon, epithelial	Follicular	171	0.9941520467836257	1.0	0.9883040935672515
+smillie19_epi.processed.h5ad	Colon, epithelial	GC	35	0.9428571428571428	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Goblet	777	0.9601029601029601	0.9832689832689833	0.7927927927927928
+smillie19_epi.processed.h5ad	Colon, epithelial	ILCs	2	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Immature Enterocytes 1	3230	0.9761609907120743	0.9569659442724459	0.6445820433436532
+smillie19_epi.processed.h5ad	Colon, epithelial	Immature Enterocytes 2	3760	0.9242021276595744	0.9550531914893617	0.49414893617021277
+smillie19_epi.processed.h5ad	Colon, epithelial	Immature Goblet	2252	0.9595914742451155	0.9973357015985791	0.9209591474245116
+smillie19_epi.processed.h5ad	Colon, epithelial	M cells	15	0.8666666666666667	1.0	0.6666666666666666
+smillie19_epi.processed.h5ad	Colon, epithelial	MT-hi	14	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Macrophages	38	1.0	1.0	0.9736842105263158
+smillie19_epi.processed.h5ad	Colon, epithelial	NKs	25	0.92	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Plasma	80	1.0	1.0	0.975
+smillie19_epi.processed.h5ad	Colon, epithelial	Secretory TA	1834	0.8800436205016358	0.9907306434023991	0.7448200654307524
+smillie19_epi.processed.h5ad	Colon, epithelial	Stem	694	0.8904899135446686	0.9884726224783862	0.7305475504322767
+smillie19_epi.processed.h5ad	Colon, epithelial	TA 1	4881	0.9758246261012088	0.9938537185003073	0.9422249539028887
+smillie19_epi.processed.h5ad	Colon, epithelial	TA 2	4413	0.8941762973034217	0.9709947881259914	0.7718105597099478
+smillie19_epi.processed.h5ad	Colon, epithelial	Tregs	6	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	Tuft	228	0.9473684210526315	0.9912280701754386	0.8377192982456141
+smillie19_epi.processed.h5ad	Colon, epithelial	WNT2B+ Fos-lo 1	1	1.0	1.0	1.0
+smillie19_epi.processed.h5ad	Colon, epithelial	WNT5B+ 2	1	1.0	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	Activated CD4 T	1531	0.9464402351404311	1.0	0.9986936642717178
+james20.processed.h5ad	Colon, immune cells	B cell IgA Plasma	12522	0.9052866954160678	0.9999201405526273	0.9959271681839962
+james20.processed.h5ad	Colon, immune cells	B cell IgG Plasma	342	0.8859649122807017	1.0	0.9912280701754386
+james20.processed.h5ad	Colon, immune cells	B cell cycling	15	0.9333333333333333	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	B cell memory	4508	0.936779059449867	0.9997781721384206	0.9991126885536823
+james20.processed.h5ad	Colon, immune cells	CD8 T	3145	0.9507154213036566	0.9996820349761526	0.9993640699523052
+james20.processed.h5ad	Colon, immune cells	Follicular B cell	2582	0.9546862896979086	1.0	0.9988381099922541
+james20.processed.h5ad	Colon, immune cells	ILC	832	0.8713942307692307	1.0	0.9963942307692307
+james20.processed.h5ad	Colon, immune cells	LYVE1 Macrophage	91	0.9010989010989011	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	Lymphoid DC	10	0.4	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	Macrophage	268	0.9365671641791045	1.0	0.9925373134328358
+james20.processed.h5ad	Colon, immune cells	Mast	1151	0.9105125977410947	1.0	0.9991311902693311
+james20.processed.h5ad	Colon, immune cells	Monocyte	98	0.9489795918367347	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	NK	452	0.8960176991150443	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	Tcm	3042	0.9569362261669954	1.0	0.9996712689020382
+james20.processed.h5ad	Colon, immune cells	Tfh	1786	0.973124300111982	1.0	0.9988801791713325
+james20.processed.h5ad	Colon, immune cells	Th1	2833	0.9431697846805507	1.0	0.99858806918461
+james20.processed.h5ad	Colon, immune cells	Th17	3432	0.9388111888111889	1.0	0.9991258741258742
+james20.processed.h5ad	Colon, immune cells	Treg	2232	0.931899641577061	1.0	0.9991039426523297
+james20.processed.h5ad	Colon, immune cells	cDC1	38	0.868421052631579	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	cDC2	107	0.822429906542056	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	cycling DCs	47	0.9787234042553191	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	cycling gd T	25	0.92	1.0	1.0
+james20.processed.h5ad	Colon, immune cells	gd T	548	0.8722627737226277	1.0	0.9927007299270073
+james20.processed.h5ad	Colon, immune cells	pDC	13	0.8461538461538461	1.0	1.0
+wang20_rectum.processed.h5ad	Rectum	Enteriendocrine	66	0.7272727272727273	0.9545454545454546	0.7121212121212122
+wang20_rectum.processed.h5ad	Rectum	Enterocyte	584	0.8441780821917808	0.8527397260273972	0.18664383561643835
+wang20_rectum.processed.h5ad	Rectum	Goblet	899	0.7819799777530589	0.9933259176863182	0.4916573971078977
+wang20_rectum.processed.h5ad	Rectum	Paneth-like	299	0.725752508361204	0.9531772575250836	0.26755852842809363
+wang20_rectum.processed.h5ad	Rectum	Progenitor	1435	0.662020905923345	0.9623693379790941	0.3470383275261324
+wang20_rectum.processed.h5ad	Rectum	Stem Cell	258	0.6589147286821705	0.9767441860465116	0.3643410852713178
+wang20_rectum.processed.h5ad	Rectum	TA	256	0.6875	0.953125	0.265625
+vento18_10x.processed.h5ad	Placenta/Decidua	DC1	299	0.9531772575250836	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	DC2	314	0.9585987261146497	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	EVT	2360	0.5771186440677966	0.9915254237288136	0.997457627118644
+vento18_10x.processed.h5ad	Placenta/Decidua	Endo (f)	95	0.8	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	Endo (m)	821	0.8246041412911084	0.997563946406821	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	Endo L	344	0.8546511627906976	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	Granulocytes	218	0.7889908256880734	0.9954128440366973	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	HB	1243	0.9436846339501207	0.995172968624296	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	ILC3	163	0.9202453987730062	0.9938650306748467	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	MAIT	968	0.9824380165289256	0.9989669421487604	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	MO	819	0.9768009768009768	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	NK CD16+	1343	0.9769173492181683	0.9992553983618764	0.9992553983618764
+vento18_10x.processed.h5ad	Placenta/Decidua	NK CD16-	221	0.9683257918552036	1.0	0.995475113122172
+vento18_10x.processed.h5ad	Placenta/Decidua	PB Naive CD4 	3955	0.979519595448799	1.0	0.9997471554993679
+vento18_10x.processed.h5ad	Placenta/Decidua	PB Naive CD8	1046	0.9770554493307839	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	PB clonal CD8	571	0.9737302977232924	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	Plasma	277	0.9638989169675091	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	SCT	1167	0.5338474721508141	0.9151670951156813	0.9905741216795202
+vento18_10x.processed.h5ad	Placenta/Decidua	Treg	191	0.9267015706806283	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	VCT	8281	0.5915952179688443	0.9440888781548122	0.9928752566115203
+vento18_10x.processed.h5ad	Placenta/Decidua	dM1	2591	0.9706676958703203	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	dM2	2288	0.9527972027972028	1.0	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	dM3	831	0.9049338146811071	0.9915764139590855	0.9987966305655837
+vento18_10x.processed.h5ad	Placenta/Decidua	dNK p	715	0.8475524475524475	1.0	0.9986013986013986
+vento18_10x.processed.h5ad	Placenta/Decidua	dNK1	3429	0.8734324876057159	1.0	0.9991251093613298
+vento18_10x.processed.h5ad	Placenta/Decidua	dNK2	5114	0.8955807587016035	0.9998044583496285	0.9998044583496285
+vento18_10x.processed.h5ad	Placenta/Decidua	dNK3	1955	0.9058823529411765	1.0	0.9994884910485934
+vento18_10x.processed.h5ad	Placenta/Decidua	dP1	1028	0.8229571984435797	0.8988326848249028	0.9990272373540856
+vento18_10x.processed.h5ad	Placenta/Decidua	dP2	802	0.844139650872818	0.9513715710723192	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	dS1	6997	0.7674717736172646	0.9785622409604116	0.9989995712448192
+vento18_10x.processed.h5ad	Placenta/Decidua	dS2	4495	0.7185761957730812	0.978865406006674	0.9995550611790879
+vento18_10x.processed.h5ad	Placenta/Decidua	dS3	878	0.9168564920273349	0.9817767653758542	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	dT CD4	995	0.9718592964824121	0.9989949748743718	1.0
+vento18_10x.processed.h5ad	Placenta/Decidua	dT CD8	676	0.9585798816568047	1.0	0.9985207100591716
+vento18_10x.processed.h5ad	Placenta/Decidua	fFB1	2108	0.7514231499051234	0.99573055028463	0.9976280834914611
+vento18_10x.processed.h5ad	Placenta/Decidua	fFB2	107	0.7850467289719626	1.0	1.0
+martin19.processed.h5ad	Ileum	B cells	3183	0.9824065347156771	1.0	0.9965441407477222
+martin19.processed.h5ad	Ileum	Cycling	151	0.9867549668874173	0.9867549668874173	0.9933774834437086
+martin19.processed.h5ad	Ileum	Doublets	3533	0.9886781771865271	0.9985847721483159	0.9983017265779791
+martin19.processed.h5ad	Ileum	ILC	1382	0.951519536903039	1.0	0.9985528219971056
+martin19.processed.h5ad	Ileum	MNP	1635	0.9706422018348624	0.998776758409786	0.9951070336391438
+martin19.processed.h5ad	Ileum	Mast cells	92	1.0	1.0	0.9891304347826086
+martin19.processed.h5ad	Ileum	Plasma cells	3898	0.9820420728578758	0.9992303745510518	0.9982042072857876
+martin19.processed.h5ad	Ileum	Stroma	3627	0.9412737799834574	0.8891645988420182	0.9021229666390956
+martin19.processed.h5ad	Ileum	T cells	14957	0.9811459517282878	0.9987965501103162	0.9975262418934279
+voigt19.processed.h5ad	Retina	B-cell	100	0.91	1.0	0.99
+voigt19.processed.h5ad	Retina	Endothelial	174	0.8103448275862069	1.0	1.0
+voigt19.processed.h5ad	Retina	Fibroblast	1341	0.7740492170022372	0.9985085756897838	0.9992542878448919
+voigt19.processed.h5ad	Retina	Macrophage	172	0.8953488372093024	1.0	1.0
+voigt19.processed.h5ad	Retina	Mast-cell	62	0.9516129032258065	1.0	1.0
+voigt19.processed.h5ad	Retina	Melanocyte	881	0.8274687854710556	1.0	0.9977298524404086
+voigt19.processed.h5ad	Retina	Pericyte	180	0.8166666666666667	0.9944444444444445	1.0
+voigt19.processed.h5ad	Retina	RPE	289	0.7750865051903114	0.9930795847750865	0.986159169550173
+voigt19.processed.h5ad	Retina	Schwann1	33	0.8484848484848485	1.0	1.0
+voigt19.processed.h5ad	Retina	Schwann2	491	0.945010183299389	1.0	1.0
+voigt19.processed.h5ad	Retina	T/NK-cell	612	0.9281045751633987	1.0	1.0
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	B cells	52	0.9038461538461539	1.0	0.9615384615384616
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Basal	9	0.6666666666666666	1.0	1.0
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Ciliated	144	0.8055555555555556	0.9861111111111112	0.7986111111111112
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Dendritic cells	547	0.9360146252285192	1.0	0.9817184643510055
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Endothelial	318	0.8679245283018868	1.0	0.9748427672955975
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Fibroblasts	478	0.8263598326359832	0.997907949790795	0.9728033472803347
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Luminal_Macrophages	4559	0.9464794911164729	0.9997806536521167	0.9706075893836368
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Lymphatic	144	0.875	1.0	0.9652777777777778
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Mast cells	227	0.9559471365638766	1.0	0.9779735682819384
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Mesothelium	137	0.6861313868613139	1.0	0.9781021897810219
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Neutrophils	2749	0.9512550018188433	1.0	0.9861767915605675
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Secretory	12	0.8333333333333334	1.0	0.8333333333333334
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Smooth muscle	107	0.9532710280373832	0.9906542056074766	0.9719626168224299
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	T and NK	612	0.9575163398692811	1.0	0.9869281045751634
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Type 2 alveolar	2815	0.8127886323268206	0.9829484902309059	0.46536412078152756
+vieira19_Alveoli_and_parenchyma_anonymised.processed.h5ad	Lung parenchyma	Type_1_alveolar	61	0.8688524590163934	1.0	0.5245901639344263
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	B cells	61	0.9016393442622951	1.0	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Basal	5870	0.5916524701873935	0.9768313458262351	0.9577512776831346
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Ciliated	6593	0.6249052024874867	0.9804337934172608	0.735021993022903
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Dendritic cells	288	0.9270833333333334	1.0	0.9895833333333334
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Endothelial	310	0.7741935483870968	1.0	0.9935483870967742
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Fibroblasts	51	0.7843137254901961	1.0	0.9803921568627451
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Ionocytes	70	0.6142857142857143	1.0	0.7571428571428571
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Luminal_Macrophages	90	0.8444444444444444	0.9888888888888889	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Lymphatic	2	0.5	1.0	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Mast cells	3	0.6666666666666666	1.0	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Neutrophils	6	1.0	1.0	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Secretory	3516	0.5938566552901023	0.9559158134243458	0.7804323094425484
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	Smooth muscle	8	0.75	1.0	1.0
+vieira19_Bronchi_anonymised.processed.h5ad	Bronchi	T and NK	5	1.0	1.0	1.0
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	B cells	1	1.0	1.0	1.0
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Basal	55	0.5272727272727272	1.0	0.8909090909090909
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Ciliated	1524	0.5229658792650919	0.9278215223097113	0.5767716535433071
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Dendritic cells	19	1.0	1.0	0.9473684210526315
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Ionocytes	2	1.0	1.0	1.0
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Luminal_Macrophages	1	1.0	1.0	1.0
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Neutrophils	2	1.0	1.0	1.0
+vieira19_Nasal_anonymised.processed.h5ad	Nasal	Secretory	5483	0.5161407988327558	0.923399598759803	0.7198613897501368
+baron16.processed.h5ad	Pancreas	acinar	617	0.8314424635332253	1.0	0.7098865478119936
+baron16.processed.h5ad	Pancreas	activated_stellate	253	0.6007905138339921	1.0	1.0
+baron16.processed.h5ad	Pancreas	alpha	2251	0.9200355397601067	1.0	0.9320302087960907
+baron16.processed.h5ad	Pancreas	beta	2417	0.8713280926768722	0.998345055854365	0.9971038477451386
+baron16.processed.h5ad	Pancreas	delta	535	0.8897196261682243	0.9962616822429906	1.0
+baron16.processed.h5ad	Pancreas	ductal	911	0.6948408342480791	0.9923161361141603	0.6706915477497256
+baron16.processed.h5ad	Pancreas	endothelial	237	0.7679324894514767	1.0	1.0
+baron16.processed.h5ad	Pancreas	epsilon	18	1.0	1.0	1.0
+baron16.processed.h5ad	Pancreas	gamma	244	0.8811475409836066	0.9959016393442623	1.0
+baron16.processed.h5ad	Pancreas	macrophage	32	1.0	1.0	1.0
+baron16.processed.h5ad	Pancreas	mast	19	0.9473684210526315	1.0	1.0
+baron16.processed.h5ad	Pancreas	quiescent_stellate	163	0.852760736196319	0.9938650306748467	1.0
+baron16.processed.h5ad	Pancreas	schwann	12	0.8333333333333334	1.0	0.9166666666666666
+baron16.processed.h5ad	Pancreas	t_cell	5	0.8	1.0	1.0
+guo18_donor.processed.h5ad	Testis	Differentiating Spermatogonia	314	0.3089171974522293	0.9936305732484076	1.0
+guo18_donor.processed.h5ad	Testis	Early Primary Spermatocytes	557	0.19748653500897667	0.9946140035906643	0.9982046678635548
+guo18_donor.processed.h5ad	Testis	Elongated Spermatids	775	0.3251612903225806	0.9961290322580645	0.8283870967741935
+guo18_donor.processed.h5ad	Testis	Endothelial cells	345	0.7768115942028986	0.9855072463768116	1.0
+guo18_donor.processed.h5ad	Testis	Late primary Spermatocytes	287	0.03832752613240418	0.9860627177700348	1.0
+guo18_donor.processed.h5ad	Testis	Leydig cells	605	0.8314049586776859	0.9768595041322314	1.0
+guo18_donor.processed.h5ad	Testis	Macrophages	341	0.9442815249266863	0.9912023460410557	0.9970674486803519
+guo18_donor.processed.h5ad	Testis	Myoid cells	332	0.7680722891566265	0.9487951807228916	1.0
+guo18_donor.processed.h5ad	Testis	Round Spermatids	444	0.22072072072072071	0.9887387387387387	0.9819819819819819
+guo18_donor.processed.h5ad	Testis	Sertoli cells	28	0.7857142857142857	0.8571428571428571	1.0
+guo18_donor.processed.h5ad	Testis	Sperm	1885	0.576657824933687	0.996816976127321	0.9883289124668435
+guo18_donor.processed.h5ad	Testis	Spermatogonial Stem cell	286	0.27972027972027974	0.9370629370629371	0.9055944055944056
+henry18_0.processed.h5ad	Prostate	Basal	21049	0.9022756425483396	0.9978146230224714	0.9135350848021284
+henry18_0.processed.h5ad	Prostate	Club	1475	0.7993220338983051	0.9905084745762712	0.49627118644067797
+henry18_0.processed.h5ad	Prostate	Endothelia	1663	0.9110042092603728	0.9993986770895971	0.968129885748647
+henry18_0.processed.h5ad	Prostate	Fibroblast	1365	0.8380952380952381	0.9970695970695971	0.9721611721611721
+henry18_0.processed.h5ad	Prostate	Hillock	3353	0.8091261556814793	0.9931404712198032	0.6597077244258872
+henry18_0.processed.h5ad	Prostate	Leukocytes	380	0.9	1.0	0.9578947368421052
+henry18_0.processed.h5ad	Prostate	Luminal	2487	0.8206674708484117	0.9983916365098512	0.2810615199034982
+henry18_0.processed.h5ad	Prostate	Smooth muscle	1149	0.9268929503916449	0.9921671018276762	0.9730200174064404
+madissoon20_oesophagus.processed.h5ad	Oesophagus	B_CD27neg	462	0.987012987012987	1.0	1.0
+madissoon20_oesophagus.processed.h5ad	Oesophagus	B_CD27pos	773	0.9805950840879689	1.0	0.9974126778783958
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Blood_vessel	1498	0.9345794392523364	0.9993324432576769	0.9993324432576769
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Dendritic_Cells	337	0.9673590504451038	0.9940652818991098	1.0
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Epi_basal	754	0.8461538461538461	0.9920424403183024	0.96684350132626
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Epi_dividing	10870	0.8844526218951242	0.9964121435142594	0.9936522539098436
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Epi_stratified	50469	0.7837286254928768	0.9878935584220017	0.9587073252887911
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Epi_suprabasal	10000	0.9067	0.9979	0.9953
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Epi_upper	9150	0.8621857923497268	0.980655737704918	0.5723497267759563
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Glands_duct	175	0.8114285714285714	1.0	0.7714285714285715
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Glands_mucous	55	0.8181818181818182	1.0	0.6727272727272727
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Lymph_vessel	105	0.9523809523809523	1.0	1.0
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Mast_cell	112	0.9553571428571429	1.0	0.9910714285714286
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Mono_macro	334	0.9880239520958084	1.0	0.9970059880239521
+madissoon20_oesophagus.processed.h5ad	Oesophagus	NK_T_CD8_Cytotoxic	201	0.9353233830845771	1.0	1.0
+madissoon20_oesophagus.processed.h5ad	Oesophagus	Stroma	505	0.9287128712871288	1.0	1.0
+madissoon20_oesophagus.processed.h5ad	Oesophagus	T_CD4	1350	0.9525925925925925	1.0	0.9955555555555555
+madissoon20_oesophagus.processed.h5ad	Oesophagus	T_CD8	797	0.9761606022584692	1.0	0.998745294855709
+madissoon20_spleen.processed.h5ad	Spleen	B_Hypermutation	437	0.965675057208238	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	B_T_doublet	2207	0.9845944721341187	1.0	0.9995468962392388
+madissoon20_spleen.processed.h5ad	Spleen	B_follicular	16286	0.9648164067297065	0.9999385975684637	0.9998157927053911
+madissoon20_spleen.processed.h5ad	Spleen	B_mantle	18513	0.9785015934748555	1.0	0.9998379517096094
+madissoon20_spleen.processed.h5ad	Spleen	CD34_progenitor	164	0.75	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	DC_1	239	0.9581589958158996	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	DC_2	1424	0.9648876404494382	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	DC_activated	37	0.8918918918918919	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	DC_plasmacytoid	256	0.953125	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	ILC	566	0.9293286219081273	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Macrophage	1035	0.9845410628019323	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Monocyte	3878	0.9749871067560598	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	NK_CD160pos	6400	0.971875	1.0	0.99984375
+madissoon20_spleen.processed.h5ad	Spleen	NK_FCGR3Apos	7458	0.9794851166532582	1.0	0.9997318315902387
+madissoon20_spleen.processed.h5ad	Spleen	NK_dividing	600	0.9866666666666667	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Plasma_IgG	1800	0.9755555555555555	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Plasma_IgM	2488	0.9730707395498392	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Plasmablast	1752	0.9771689497716894	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Platelet	79	0.9746835443037974	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	T_CD4_conv	11081	0.9846584243299341	1.0	0.9998195108744699
+madissoon20_spleen.processed.h5ad	Spleen	T_CD4_fh	2737	0.9769820971867008	1.0	0.999269272926562
+madissoon20_spleen.processed.h5ad	Spleen	T_CD4_naive	3224	0.9807692307692307	1.0	0.9996898263027295
+madissoon20_spleen.processed.h5ad	Spleen	T_CD4_reg	1010	0.9554455445544554	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	T_CD8_CTL	1040	0.9846153846153847	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	T_CD8_MAIT	2470	0.9825910931174089	0.9995951417004049	1.0
+madissoon20_spleen.processed.h5ad	Spleen	T_CD8_activated	5009	0.9812337791974446	1.0	0.9998003593531644
+madissoon20_spleen.processed.h5ad	Spleen	T_CD8_gd	1620	0.9740740740740741	1.0	0.9993827160493827
+madissoon20_spleen.processed.h5ad	Spleen	T_cell_dividing	319	0.9529780564263323	1.0	1.0
+madissoon20_spleen.processed.h5ad	Spleen	Unknown	128	0.984375	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Ascending vasa recta endothelium	300	0.95	0.9966666666666667	0.9933333333333333
+stewart19_adult.processed.h5ad	Kidney	B cell	975	0.9743589743589743	0.9989743589743589	0.9989743589743589
+stewart19_adult.processed.h5ad	Kidney	CD4 T cell	2435	0.97782340862423	0.9950718685831622	0.9995893223819302
+stewart19_adult.processed.h5ad	Kidney	CD8 T cell	991	0.9858728557013118	0.992936427850656	0.9989909182643795
+stewart19_adult.processed.h5ad	Kidney	Connecting tubule	157	0.8471337579617835	0.9936305732484076	0.5987261146496815
+stewart19_adult.processed.h5ad	Kidney	Descending vasa recta endothelium	192	0.96875	0.9895833333333334	1.0
+stewart19_adult.processed.h5ad	Kidney	Epithelial progenitor cell	238	0.8277310924369747	0.9831932773109243	0.8361344537815126
+stewart19_adult.processed.h5ad	Kidney	Fibroblast	23	0.9565217391304348	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Glomerular endothelium	622	0.9517684887459807	0.9983922829581994	0.9903536977491961
+stewart19_adult.processed.h5ad	Kidney	Intercalated cell	829	0.9264173703256936	0.9891435464414958	0.6682750301568154
+stewart19_adult.processed.h5ad	Kidney	MNP-a/classical monocyte derived	555	0.9693693693693693	0.9945945945945946	0.9945945945945946
+stewart19_adult.processed.h5ad	Kidney	MNP-b/non-classical monocyte derived	375	0.9786666666666667	0.9946666666666667	0.992
+stewart19_adult.processed.h5ad	Kidney	MNP-c/dendritic cell	220	0.9545454545454546	0.9954545454545455	0.9818181818181818
+stewart19_adult.processed.h5ad	Kidney	MNP-d/Tissue macrophage	87	0.9885057471264368	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Mast cell	41	1.0	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Myofibroblast	122	0.9754098360655737	1.0	0.9836065573770492
+stewart19_adult.processed.h5ad	Kidney	NK cell	1322	0.9606656580937972	0.9901664145234493	0.9954614220877458
+stewart19_adult.processed.h5ad	Kidney	NKT cell	733	0.9713506139154161	0.9945429740791268	0.9945429740791268
+stewart19_adult.processed.h5ad	Kidney	Neutrophil	46	1.0	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Pelvic epithelium	136	0.8308823529411765	0.9779411764705882	0.6470588235294118
+stewart19_adult.processed.h5ad	Kidney	Peritubular capillary endothelium	851	0.9506462984723855	0.9964747356051704	0.9905992949471211
+stewart19_adult.processed.h5ad	Kidney	Plasmacytoid dendritic cell	23	0.8695652173913043	1.0	1.0
+stewart19_adult.processed.h5ad	Kidney	Podocyte	126	0.9682539682539683	0.9761904761904762	1.0
+stewart19_adult.processed.h5ad	Kidney	Principal cell	88	0.7386363636363636	1.0	0.625
+stewart19_adult.processed.h5ad	Kidney	Proximal tubule	28061	0.991375931007448	0.9154698692134992	0.9881686326217882
+stewart19_adult.processed.h5ad	Kidney	Thick ascending limb of Loop of Henle	675	0.9792592592592593	0.9925925925925926	0.9585185185185185
+stewart19_adult.processed.h5ad	Kidney	Transitional urothelium	45	0.8222222222222222	1.0	0.4666666666666667
